@@ -12,13 +12,15 @@ I’m am quite creative in coming up with new ideas, solutions or finding ideal 
 # Technologies
 ![icons8-html-5-96](https://user-images.githubusercontent.com/81322974/182447341-a44e38c3-23f1-40ba-abbe-88666028b0a9.png)
 ![icons8-css3-96](https://user-images.githubusercontent.com/81322974/182447337-71f167bb-cbea-4d62-b4af-e2b551814925.png)
-![icons8-redux-96](https://user-images.githubusercontent.com/81322974/182447769-539035e1-5959-4f82-80b1-9b010a73d92f.png)
 ![icons8-javascript-96](https://user-images.githubusercontent.com/81322974/182447343-cba78ea4-297d-411a-8059-6ffd5df9ddb7.png)
+![icons8-typescript-96](https://user-images.githubusercontent.com/81322974/182518848-cf182f63-2b26-4fa6-9d62-2068d26d03e1.png)
 ![icons8-nodejs-96](https://user-images.githubusercontent.com/81322974/182447347-ab2720d6-b50b-4a99-8f40-6059b4dcbe6f.png)
+
+
 ![icons8-postgresql-96](https://user-images.githubusercontent.com/81322974/182447350-df1b1476-1ec5-476f-a7f7-d1822564188a.png)
 ![icons8-react-96](https://user-images.githubusercontent.com/81322974/182447353-c716283b-bb8c-491b-9196-7cd8ec41856d.png)
 ![Express](https://user-images.githubusercontent.com/81322974/182449375-9e97ba29-ccec-490b-96f8-6757ef0a8424.png)
-![icons8-rest-api-96](https://user-images.githubusercontent.com/81322974/182447359-5e28321e-fe8f-424c-8bbd-83fb25d1f5df.png)
+![icons8-redux-96](https://user-images.githubusercontent.com/81322974/182447769-539035e1-5959-4f82-80b1-9b010a73d92f.png)
 ![icons8-bootstrap-96](https://user-images.githubusercontent.com/81322974/182447335-4e8a3563-5e20-47be-a9b9-baa10c699294.png)
 
 And more...
