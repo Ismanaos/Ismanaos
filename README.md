@@ -27,7 +27,7 @@ And more...
 
 ## How to reach me?
 
--📞Easy contact through my website [portofolio](https://portofolio-ismanaos.vercel.app/)
+-📞Easy contact through my website [portoflio](https://portofolio-ismanaos.vercel.app/)
 
 -💼My personal [Linkedin](https://www.linkedin.com/in/david-ismael-enriquez/)
 
